@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.description      = 'DESC A new Flutter project.DESC'
   s.homepage         = 'https://pub.dev/packages/hyperpay_plugin'
   s.license          = { :file => 'LICENSE' }
-  s.author           = { 'ahmedelkhyary' => 'mcli3064@gmail.com' }
+  s.author           = { 'Abdullah' => 'abdullahabdeldayem007@gmail.com' }
   s.source           = { :path => '.' }
 
   s.preserve_paths = 'OPPWAMobile.xcframework', 'ipworks3ds_sdk.xcframework'
